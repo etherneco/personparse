@@ -4,9 +4,21 @@
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-## Instalations
-  
 
+
+## Instalations
+
+Download 
+
+#git clone https://github.com/etherneco/personparse.git
+
+Run composer
+
+#composer install
+
+Run webserwer
+#php artisan serve  --host=192.168.56.101
+Laravel development server started: <http://192.168.56.101:8000>
 
 ## About Homeowners
 It provided with a CSV from an estate agent containing an export of their
